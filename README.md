@@ -6,4 +6,3 @@ Who needs a seedbox if I have
 Further
 [steps](https://www.quora.com/Could-blockchain-replace-DNS/answer/Daniel-Ly)     
 
-P.S. [1](https://twitter.com/nonsameer/status/1075147851079053313)
